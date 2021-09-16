@@ -29,7 +29,7 @@
 
 ![圖片6](https://user-images.githubusercontent.com/45162673/133566131-ac6b54e5-67af-44cf-8966-85ea95eb80b2.jpg)
 
-
+### 實驗結果
 在進行完全部36回合後，程式會抽出一個回合進行經濟學的拍賣，並執行這個回合的現金或禮物報酬給予受試者
 
 ![圖片5](https://user-images.githubusercontent.com/45162673/133565923-d293bef7-d2a6-4683-9cd8-4aea9b056266.jpg)
