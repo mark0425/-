@@ -15,8 +15,23 @@
 
 ![實驗進入圖片](https://user-images.githubusercontent.com/45162673/133564121-c4b1aa4d-9166-41f6-a35d-c3f8ade528ff.jpg)
 
-#### 實驗交換禮物決策
-實驗預設分配受試者預算，每回合受試者可以用鍵盤上方數字鍵左一右二決定購買的禮物
+### 實驗交換禮物決策
+實驗預設分配受試者預算，每回合受試者可以用鍵盤上方數字鍵1和2(代表左和右)決定購買的禮物
 
 ![圖片2](https://user-images.githubusercontent.com/45162673/133565009-6dce6da1-4717-4b75-81da-1b6dd930c0e4.jpg)
+
+接著受試者會收到其餘三位中其中一位受試者的交換禮物
+
+![圖片3](https://user-images.githubusercontent.com/45162673/133565379-b10d2074-633a-4588-ae98-27ad18ab027b.jpg)
+
+### 實驗評價交換禮物決策
+受試者根據收到的禮物給予評價(願付價格WTA)
+
+![圖片4](https://user-images.githubusercontent.com/45162673/133565661-400875a2-b107-4bda-9ed9-a1d7392c39c4.jpg)
+
+在進行完全部36回合後，程式會抽出一個回合進行經濟學的拍賣，並執行這個回合的現金或禮物報酬給予受試者
+
+![圖片5](https://user-images.githubusercontent.com/45162673/133565923-d293bef7-d2a6-4683-9cd8-4aea9b056266.jpg)
+
+此為單機版本展示程式，正式實驗為連線程式
 
