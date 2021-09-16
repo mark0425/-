@@ -11,9 +11,9 @@
 
 參與交換禮物過程會有四位受試者分配四個ID(A,B,C,D)，此為單機版程式，預設為ID:A
 
-進入實驗畫面按空白鍵即可開始!
+進入實驗畫面按空白鍵即可開始
 
-[實驗進入圖片](https://user-images.githubusercontent.com/45162673/133564121-c4b1aa4d-9166-41f6-a35d-c3f8ade528ff.jpg)
+![實驗進入圖片](https://user-images.githubusercontent.com/45162673/133564121-c4b1aa4d-9166-41f6-a35d-c3f8ade528ff.jpg)
 
 #### 實驗交換禮物決策
 實驗預設分配受試者預算，每回合受試者可以用鍵盤上方數字鍵左一右二決定購買的禮物
