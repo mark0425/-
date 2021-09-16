@@ -25,7 +25,7 @@
 ![圖片3](https://user-images.githubusercontent.com/45162673/133565379-b10d2074-633a-4588-ae98-27ad18ab027b.jpg)
 
 ### 實驗評價交換禮物決策
-受試者根據收到的禮物給予評價(願付價格WTA)
+受試者根據收到的禮物，用鍵盤數字鍵給予評價(願付價格WTA)
 
 ![圖片6](https://user-images.githubusercontent.com/45162673/133566131-ac6b54e5-67af-44cf-8966-85ea95eb80b2.jpg)
 
