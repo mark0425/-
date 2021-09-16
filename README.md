@@ -27,7 +27,8 @@
 ### 實驗評價交換禮物決策
 受試者根據收到的禮物給予評價(願付價格WTA)
 
-![圖片4](https://user-images.githubusercontent.com/45162673/133565661-400875a2-b107-4bda-9ed9-a1d7392c39c4.jpg)
+![圖片6](https://user-images.githubusercontent.com/45162673/133566131-ac6b54e5-67af-44cf-8966-85ea95eb80b2.jpg)
+
 
 在進行完全部36回合後，程式會抽出一個回合進行經濟學的拍賣，並執行這個回合的現金或禮物報酬給予受試者
 
